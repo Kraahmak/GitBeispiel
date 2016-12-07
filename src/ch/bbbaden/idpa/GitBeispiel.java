@@ -15,7 +15,7 @@ public class GitBeispiel {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        HelloWorld hw = new HelloWorld("GIT");
+        HelloWorld hw = new HelloWorld("GITigit");
         System.out.println(hw.getAusgabe());
     }
     
